@@ -17,9 +17,12 @@ Here are some ideas to get you started:
 
 <code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-
+<!--
 | <a href="https://github.com/TseZach"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TseZach&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" /></a> | <a href="https://github.com/TseZach"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TseZach&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+-->
+
+<a href="https://github.com/TseZach"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TseZach&layout=compact&theme=buefy&hide_border=true" /></a>
 
 <a href="https://github.com/TseZach">
   <picture>
